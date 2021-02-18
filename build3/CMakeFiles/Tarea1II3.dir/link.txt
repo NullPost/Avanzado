@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Tarea1II3.dir/class03.cpp.o  -o Tarea1II3  -Wl,-rpath,/home/nullpost/Code/build3/VecR3 VecR3/libVecR3.so 

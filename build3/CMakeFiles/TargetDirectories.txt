@@ -1,0 +1,6 @@
+/home/nullpost/Code/build3/CMakeFiles/rebuild_cache.dir
+/home/nullpost/Code/build3/CMakeFiles/edit_cache.dir
+/home/nullpost/Code/build3/CMakeFiles/Tarea1II3.dir
+/home/nullpost/Code/build3/VecR3/CMakeFiles/rebuild_cache.dir
+/home/nullpost/Code/build3/VecR3/CMakeFiles/edit_cache.dir
+/home/nullpost/Code/build3/VecR3/CMakeFiles/VecR3.dir

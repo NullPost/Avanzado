@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Tarea1II1.dir/class01.cpp.o CMakeFiles/Tarea1II1.dir/src/simple.cpp.o  -o Tarea1II1 

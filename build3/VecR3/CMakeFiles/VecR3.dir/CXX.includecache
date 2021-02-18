@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nullpost/Code/Tarea1II3/VecR3/include/VecR3.hpp
+iostream
+-
+string
+-
+
+/home/nullpost/Code/Tarea1II3/VecR3/src/VecR3.cpp
+iostream
+-
+cmath
+-
+VecR3.hpp
+/home/nullpost/Code/Tarea1II3/VecR3/src/VecR3.hpp
+
